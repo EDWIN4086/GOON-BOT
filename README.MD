@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://https://github.com/EDWIN4086/GOON-BOT/new/main">
-    <img alt="GOON-BOT docs" height="350" src="https://files.catbox.moe/8gw009.png">
+    <img alt="GOON-BOT docs" height="350" src="https://i.ibb.co/xKPsWqtW/56ebed813076.jpg">
   </a>
 </p>
 
